@@ -15,6 +15,7 @@ namespace WebApplication_Test
         {
             int b;
             int d;
+            int a;
             CreateHostBuilder(args).Build().Run();
         }
 
